@@ -198,7 +198,7 @@ cd build
 LD_PRELOAD=./src/libhvac_client.so python train_model.py
 ```
 
-You can also find the examples at scripts directory
+You can also find the examples in the scripts directory
 
 ## Configuration
 
